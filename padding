@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>ECET</title>
+    <style>
+        body {
+            background-color: #f0f8ff;
+            /* Light background */
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        
+        h1 {
+            color: #2e8b57;
+            /* Green shade */
+            text-align: center;
+            font-size: 36px;
+        }
+        
+        img {
+            display: block;
+            margin: 20px auto;
+            border: 5px solid #4682b4;
+            /* Blue border */
+            border-radius: 10px;
+            width: 500px;
+        }
+        
+        p {
+            color: #333333;
+            /* Dark text */
+            font-size: 18px;
+            line-height: 1.6;
+            text-align: justify;
+            background-color: #fffacd;
+            /* Light yellow background */
+            padding: 15px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Eluru College Of Engineering and Technology</h1>
+    <img src="https://image2url.com/r2/default/images/1770282890147-4b2f077b-2b50-46fb-af48-19f5d33e8d5e.jpg" alt="ECET College Photo">
+    <p>
+        Eluru College of Engineering and Technology (ECET), established in 2008 in Duggirala, Andhra Pradesh, is an AICTE-approved private institution affiliated with JNTUK. It offers B.Tech, M.Tech, and MBA programs across a 13-acre campus, featuring a 75% placement
+        rate with top MNCs. Known for its 'A'-grade recognition and modern infrastructure, the college focuses on technical education and practical learning.
+    </p>
+</body>
+
+</html>

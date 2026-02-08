@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Document</title>
+    </head>
+    <body>
+        <h1>Eluru college of Engineering and technology</h1>
+        <p> A core program focusing on the foundation of computer science</p>
+        <img src="https://image2url.com/r2/default/images/1770282890147-4b2f077b-2b50-46fb-af48-19f5d33e8d5e.jpg"
+         alt="ECET College Photo">
+    </body>
+</html>
